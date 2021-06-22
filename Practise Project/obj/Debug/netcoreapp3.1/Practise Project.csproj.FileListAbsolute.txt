@@ -1,0 +1,13 @@
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.exe
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.deps.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.runtimeconfig.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.runtimeconfig.dev.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.dll
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Practise Project.pdb
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.csproj.AssemblyReference.cache
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.AssemblyInfoInputs.cache
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.AssemblyInfo.cs
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.csproj.CoreCompileInputs.cache
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.dll
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.pdb
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Practise Project.genruntimeconfig.cache

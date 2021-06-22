@@ -1,0 +1,12 @@
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.exe
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.deps.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.runtimeconfig.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.runtimeconfig.dev.json
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.dll
+E:\Desktop\Fun with C#\Practise Project\Practise Project\bin\Debug\netcoreapp3.1\Jagged vs 2D Array.pdb
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.AssemblyInfoInputs.cache
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.AssemblyInfo.cs
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.csproj.CoreCompileInputs.cache
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.dll
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.pdb
+E:\Desktop\Fun with C#\Practise Project\Practise Project\obj\Debug\netcoreapp3.1\Jagged vs 2D Array.genruntimeconfig.cache
